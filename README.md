@@ -1,3 +1,3 @@
 # rypl
 
-for html/css practice 
+for html/css practice
